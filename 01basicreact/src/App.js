@@ -1,7 +1,11 @@
+import Myfunc from "./myfile";
 
 function App() {
   return (
-    <h1>Hello Hitesh | react learning</h1>
+   <>
+   <h3>chai aur react</h3>
+   <Myfunc/>
+   </>
   );
 }
 

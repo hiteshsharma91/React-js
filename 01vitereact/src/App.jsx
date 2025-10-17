@@ -1,8 +1,13 @@
+import Myfunc from "./myfile"
 
 function App() {
   return (
-    <h1>Vite React learning | Hitesh sharma</h1>
+    <>
+    <h2>react with hitesh</h2>
+   <Myfunc/>
+   <p>this is para </p>
+   </>
   )
 }
-
 export default App
+ 
